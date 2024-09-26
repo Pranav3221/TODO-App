@@ -1,0 +1,5 @@
+make soup
+clean
+gym
+college
+optimized code
